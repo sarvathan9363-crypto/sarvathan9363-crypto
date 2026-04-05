@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sarvathan9363-crypto/sarvathan9363-crypto/main/banner.svg" alt="Sarvathan C Banner" width="100%"/>
+</p>
+
+---
+
 ## 💫 About Me
 
 I am **Sarvathan C**, an Electrical and Electronic Engineering student with a strong passion for **Full Stack Web Development**. While my academic background is rooted in electrical engineering, I have independently developed practical expertise in modern web technologies, combining engineering problem-solving with software development to build efficient and scalable digital solutions.
