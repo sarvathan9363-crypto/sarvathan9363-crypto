@@ -21,10 +21,7 @@ Sarvathan C<br>Electrical Engineering Student| Full Stack Web Developer<br><br>I
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=sarvathan9363-crypto&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sarvathan9363-crypto&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=sarvathan9363-crypto&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
